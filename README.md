@@ -2,9 +2,12 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning DataScience
 - 💞️ I’m looking for a job opportuities
+- 
+- Intrested in learning and solving tasks in softwares
 - 📫 How to reach me ...
-- instagram as ''bheemeswar_43''
-- mail '' bheemesh9392@gmail.com''
+- Instagram as ''bheemeswar_aika''
+- Mail '' bheemesh9392@gmail.com''
+- 
 
 <!---
 Bheemeshaika/Bheemeshaika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
