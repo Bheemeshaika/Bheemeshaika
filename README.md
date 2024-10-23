@@ -77,8 +77,8 @@
 <p align="center">
   <a href="https://github.com/Bheemeshaika"><span>
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=Bheemeshaika&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amandewatnitrr&theme=tokyonight" />
-    <img height="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amandewatnitrr&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=tokyonight"/>
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bheemeshaika&theme=tokyonight" />
+    <img height="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bheemeshaika&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=tokyonight"/>
     </span></a>
 </p>
 <br>
@@ -107,18 +107,3 @@
 
 
 
-<!--
-**Bheemeshaika/Bheemeshaika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-Im Learning DataScience from Innomatics Research Labs
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
