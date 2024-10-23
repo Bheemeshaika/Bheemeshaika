@@ -1,8 +1,7 @@
 <div align="center">
   <h1>Hi, I'm <a href="https://github.com/Bheemeshaika/">Bheemeswararao Aika </a><img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px"></h1></div>
-<h3>A Passionate Data Analyst with hands-on project experience in Python. Excited to share my data journey and insights here! 📊🚀
+<div align="center"><h3>A Passionate Data Analyst!  📊🚀</div>
 </h3>
-</div>
 <p align='center'>
    <a href="https://www.linkedin.com/in/bheemeswararao-aika-057846239/"><img height="30" src="https://github.com/Bheemeshaika/Bheemeshaika/blob/main/linkedin%20(1).png?raw=true" alt="linkedin"></a>&nbsp;&nbsp;
 <a href="https://github.com/Bheemeshaika"><img height="30" src="https://github.com/Bheemeshaika/Bheemeshaika/blob/main/github.png" alt="github"></a>&nbsp;&nbsp;
