@@ -8,14 +8,15 @@
 <a href="https://mail.google.com/bheemesh9392@gmail.com"><img height="30" src="https://github.com/Bheemeshaika/Bheemeshaika/blob/main/gmail.png?raw=true" alt="tableau"></a>&nbsp;&nbsp;
  
 **Personal Stuffs:**
-
-
-- 👨🏽‍💻 Currently diving into a Data Analysis project
-- 🌱 I'm currently learning Data Science
-- 💼Learning advanced Data Visualisation techniques
-- 💬 Happy to help with any Data-related queries
+<div>
+<img align="right" src="https://github.com/Bheemeshaika/Bheemeshaika/blob/main/system.png" width="200"/>
+- 👨🏽‍💻 Currently diving into a Data Analysis project<br>
+- 🌱 I'm currently learning Data Science <br>
+- 💼Learning advanced Data Visualisation techniques <br>
+- 💬 Happy to help with any Data-related queries <br>
 - 📫 How to reach me: bheemesh9392@gmail.com
-<!--- 💼 Check out my [portfolio website](https://viz-graffito.netlify.app/); -->
+<br>
+</div>
 
 
 ##
