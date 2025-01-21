@@ -1,18 +1,12 @@
 <div align="center">
   <h1>Hi, I'm <a href="https://github.com/Bheemeshaika/">Bheemeswararao Aika </a><img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px"></h1></div>
-<div align="center"><h3>A Passionate Data Analyst!  📊🚀</div></h3>
 <p align='center'>
    <a href="https://www.linkedin.com/in/bheemeswararao-aika-057846239/"><img height="30" src="https://github.com/Bheemeshaika/Bheemeshaika/blob/main/linkedin%20(1).png?raw=true" alt="linkedin"></a>&nbsp;&nbsp;
 <a href="https://github.com/Bheemeshaika"><img height="30" src="https://github.com/Bheemeshaika/Bheemeshaika/blob/main/github.png" alt="github"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/bheemeswar_aika_/"><img height="30" src="https://github.com/Bheemeshaika/Bheemeshaika/blob/main/instagram.png" alt="insta"></a>&nbsp;&nbsp;
 <a href="https://mail.google.com/bheemesh9392@gmail.com"><img height="30" src="https://github.com/Bheemeshaika/Bheemeshaika/blob/main/gmail.png?raw=true" alt="tableau"></a>&nbsp;&nbsp;
  
-**Personal Stuffs:**
 <div>
-<img align="right" src="https://github.com/Bheemeshaika/Bheemeshaika/blob/main/system.png" width="200"/>
-- 👨🏽‍💻 Currently diving into a Data Analysis project<br>
-- 🌱 I'm currently learning Data Science <br>
-- 💼Learning advanced Data Visualisation techniques <br>
 - 💬 Happy to help with any Data-related queries <br>
 - 📫 How to reach me: bheemesh9392@gmail.com
 <br>
