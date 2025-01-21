@@ -6,12 +6,6 @@
 <a href="https://www.instagram.com/bheemeswar_aika_/"><img height="30" src="https://github.com/Bheemeshaika/Bheemeshaika/blob/main/instagram.png" alt="insta"></a>&nbsp;&nbsp;
 <a href="https://mail.google.com/bheemesh9392@gmail.com"><img height="30" src="https://github.com/Bheemeshaika/Bheemeshaika/blob/main/gmail.png?raw=true" alt="tableau"></a>&nbsp;&nbsp;
  
-<div>
-- 💬 Happy to help with any Data-related queries <br>
-- 📫 How to reach me: bheemesh9392@gmail.com
-<br>
-</div>
-
 
 ##
 <h3><b><samp>Skills and Languages</samp></b></h3>
@@ -29,7 +23,6 @@
 
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/python-5.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/mysql-6.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/readme.svg" alt="drawing" width="50"/>
 
   </span>
     
@@ -43,13 +36,11 @@
 ![HackerRank](https://img.shields.io/badge/HackerRank-107C10?style=flat-square&logo=HackerRank&logoColor=black)
 
 <span>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bootstrap-5-1.svg" alt="drawing" width="50"/>
-  
+
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/git-icon.svg" alt="drawing" width="40"/>
 
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/hackerrank.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/heroku-4.svg" alt="drawing" width="40"/>
 <img src="https://github.com/Bheemeshaika/Bheemeshaika/blob/main/1_HL-vMLhAMnqtAWw6LyhZbQ.png?raw=true" height="45" width="60"/>
 </span>
 <hr> <br>
