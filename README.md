@@ -45,23 +45,6 @@
 </span>
 <hr> <br>
 
-### Github Stats
-  
-<p align="center">
-  <a href="https://github.com/Bheemeshaika"><span>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=Bheemeshaika&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bheemeshaika&theme=tokyonight" />
-    <img height="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bheemeshaika&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=tokyonight"/>
-    </span></a>
-</p>
-<br>
-
-### 🏆GitHub Profile Trophy:
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Bheemeshaika&column=8&theme=onedark&no-frame=true&no-bg=true"/>
-</a>
-</p>
 
 
 
